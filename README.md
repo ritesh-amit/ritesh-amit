@@ -32,7 +32,7 @@
 <b>💻 Top Projects</b>
 
 <a href="https://github.com/ritesh-amit/BitSync_GlowCal">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=surajsisodia&repo=GlowCal-Flutter-GDSC-2021&theme=algolia" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ritesh-amit&repo=BitSync_GlowCal&theme=algolia" />
 </a>
 </br>
 </br>
