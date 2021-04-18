@@ -27,10 +27,10 @@
 ![MATERIAL-UI](https://img.shields.io/badge/-Material%20UI-222222?style=flat&logo=material-ui&logoColor=2196f3)
 
 <div>
-  <img  align="center" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=surajsisodia&count_private=true&show_icons=true&theme=algolia&include_all_commits=true" />
+  <img  align="center" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=ritesh-amit&count_private=true&show_icons=true&theme=algolia&include_all_commits=true" />
 
 
-  <img align="right" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=surajsisodia&hide=c%2B%2B,swift,javascript&theme=algolia&la" />
+  <img align="right" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=ritesh-amit&hide=c%2B%2B,swift,javascript&theme=algolia&la" />
 </div>
 
 </br>
