@@ -39,15 +39,13 @@
 
 <b>🌐 Find me elsewhere:<b>
 
-<a href="https://www.linkedin.com/in/ss26/">
+<a href="https://www.linkedin.com/in/ritesh-shukla-555536200/">
 <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/the.hustler___/">
+<a href="https://www.instagram.com/ritesh___shukla/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://twitter.com/marcos_suraj">
+<a href="https://twitter.com/RiteshS58489470">
 <img src="https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://www.facebook.com/suraj26sisodia/">
-<img src="https://img.shields.io/badge/Facebook-2d88ff?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="mailto:sisodiasuraj2000@gmail.com">
+<a href="mailto:ritesh.shuklalmp2018@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 
