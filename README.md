@@ -1,7 +1,7 @@
-### Hey, I'm Ritesh Shukla! ✌️ <img align="right" src="https://komarev.com/ghpvc/?username=ritesh-amit&style=plastic&color=blue" />
+### Hey, Myself Ritesh Shukla! ✌️ <img align="right" src="https://komarev.com/ghpvc/?username=ritesh-amit&style=plastic&color=blue" />
 
 
-<p>I'm a Mobile App Developer, who fallen in love with Android.</br> Love to build beautiful app with great functionality</p>
+<p>I'm a Flutter App Developer, who has fallen in love with Front-End and UI/UX designing.</br> I fancy building modern UI and frontend for apps with great functionality</p>
 
 🧑‍🎓  A sophomore at Indian Institute of Information Technology Surat
 
